@@ -43,6 +43,17 @@ Completion Status : Calculated the number of completion status that were complet
 
 <img width="207" alt="image" src="https://github.com/user-attachments/assets/282ca1e5-cc4c-47ae-b34b-2017a9b94323" />
 
+Annual Completion : Calculated the total number of completion throughout whole dataset , this was calculated using Athena.
+
+![image](https://github.com/user-attachments/assets/73b267f6-c554-49c8-9c5b-5d7c69889a9b)
+
+# Data Visualization
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/2cec570f-85a1-4797-8cf0-60b583110857" />
+
+
+
+
 
 
 
