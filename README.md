@@ -138,6 +138,94 @@ a. Internet Access for Teams
 
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/7a6cf724-6a2e-4cbf-aae5-2eff7d6dd040" />
 
+# Deliverables
+The Academic Data Analysis project delivers a comprehensive set of outputs designed to provide clear insights and enable effective decision-making. The primary deliverable is a detailed descriptive analytics report summarizing patterns in student course completion. This report includes key metrics such as completion rates, monthly completion trends, and a breakdown of completion statuses. In support of this, a data visualization dashboard is created to visually communicate the findings using bar charts, line graphs, and pie charts—tools like Excel, Power BI, or Amazon QuickSight can be used for this purpose.
+
+From a technical perspective, the project includes the full deployment of an ETL (Extract, Transform, Load) pipeline using AWS Glue and Glue Databrew. This pipeline automates the cleaning and transformation of raw course data stored in Amazon S3 buckets (e.g., Academic-raw-raj) and curates it into a structured format within the Academic-cur-raj bucket. The system leverages the AWS Glue Data Catalogue to manage metadata and ensures data is query-ready using Amazon Athena, allowing the academic team to perform real-time SQL-based analytics.
+
+Additionally, a functioning AWS data lake architecture is deployed and documented, showcasing the full flow from raw data ingestion to cleaned and analyzed output. To communicate project results and support strategic planning, a stakeholder presentation is also prepared, summarizing the analytical findings, architectural overview, and actionable recommendations based on student data trends.
+
+# AWS Deployment and Service Models 
+
+![image](https://github.com/user-attachments/assets/570fb5c1-083e-4365-b52b-8a2c9735b6b9)
+
+![image](https://github.com/user-attachments/assets/695eee8b-11b1-4eba-8122-73dd85ec621b)
+
+![image](https://github.com/user-attachments/assets/7bf67466-5c78-4cb7-85b5-e6471a5f87f6)
+
+![image](https://github.com/user-attachments/assets/36bb11c2-831c-4619-8d6b-9be5492ef239)
+
+![image](https://github.com/user-attachments/assets/3fb60312-cb26-4019-81d7-ebdbeff5e408)
+
+#AWS Cost Analysis 
+
+![image](https://github.com/user-attachments/assets/1b62b8ab-ce0d-4735-8f56-58ef94bed11f)
+
+
+#AWS Global infrastructure 
+
+![image](https://github.com/user-attachments/assets/2aeed90c-f81c-4baa-ae1f-35e2c2fe1f05)
+
+# AWS IAM 
+This knowledge has been taken from Module 4 case study.
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/ce3306f4-3676-4bfa-b658-f8dd7616419b" />
+
+
+# AWS VPC
+It was easy to navigate through everything but still had error with results.
+
+![image](https://github.com/user-attachments/assets/d2110dd6-7fea-46b1-af23-bdcfacd6979e)
+
+
+# AWS Lambda 
+I tried all the steps but i couldnt get full score.
+![image](https://github.com/user-attachments/assets/0604e1e2-ba90-4cc4-aa49-f6538e86b55b)
+
+
+# AWS EBS 
+
+I tried all the steps written in module but it didnt work.
+
+<img width="571" alt="image" src="https://github.com/user-attachments/assets/89f8d3ca-7b29-4c47-a8ad-4b3861edf43a" />
+
+<img width="549" alt="image" src="https://github.com/user-attachments/assets/331af017-8752-40b8-b4ce-0cdfa50ce3e8" />
+
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/b3d25b47-6dc0-4680-bb4d-0be716de0090" />
+
+# Module 1 knowledge check
+
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/8c2d375d-6107-416f-8d83-b487c906bc2d" />
+
+# Module 2
+
+<img width="522" alt="image" src="https://github.com/user-attachments/assets/92f824a8-a7f7-4912-af73-eb3f74dbae4c" />
+
+# Module 3
+
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/c71d2295-3b7f-480e-9097-f3db464f9a1d" />
+
+# Module 4
+
+<img width="404" alt="image" src="https://github.com/user-attachments/assets/7fad0353-274e-4485-b2e1-5e5feb482267" />
+
+# Module 5
+
+<img width="579" alt="image" src="https://github.com/user-attachments/assets/7dbebe5f-ca41-4bd4-a118-b7e1a8cf9e20" />
+
+# Module 6
+
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/44cdf1f9-b21a-47c6-aeec-805ed4290709" />
+
+# Module 7
+
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/e2084d1b-95ee-486e-a0a4-f477dd1d9019" />
+
+
+
+
+
+
 
 
 
